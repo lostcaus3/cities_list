@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761357927150",
+    "firebase_url": "https://citylist-b517f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "citylist-b517f",
+    "storage_bucket": "citylist-b517f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761357927150:android:eb21e9c48778a648bce9ff",
+        "android_client_info": {
+          "package_name": "com.example.city_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761357927150-vqsquiusl2sc60nhm4ubu1gn95fc0c7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZdlio-dDvQ5-ycKJzPXNElEowLdx6LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761357927150-vqsquiusl2sc60nhm4ubu1gn95fc0c7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
